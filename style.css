@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background: linear-gradient(#eeaeca 0%, #95bbe9, #4a7cb9 100%);
+    background-repeat: no-repeat;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+    background-color: purple;
+}
+
+img {
+    width: 20%;
+    height: 250px;
+}
+
+.link {
+    float: right;
+    color: deeppink;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.menu {
+    list-style: none;
+}
+
+html {
+scroll-behavior:smooth;
+}
